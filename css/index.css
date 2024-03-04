@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+canvas {
+    background-color: rgba(0, 221, 255, 0.6);
+    border: 3px solid black;
+}
